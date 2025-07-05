@@ -158,7 +158,7 @@ All available configuration keys and their accepted values are detailed in the o
 This project includes contributions from developers and creative minds who help keep the library accessible and powerful.
 
 ### 👤 Special Thanks:
-**Gherga C. Vlad** 
+**Vlad C. Gherga** 
 
 ---
 
